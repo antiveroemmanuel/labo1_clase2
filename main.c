@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 int main()
-{
+{asdasd
     int numero;
     int contador=0;
     int max;
